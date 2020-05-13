@@ -60,7 +60,6 @@
 
 .location strike {
 	padding:0 12px 0 0;
-	
 }
 
 .section {
@@ -126,40 +125,40 @@
 	background-repeat: no-repeat;
 }
 
-.integrify .timeline {
+.google .timeline {
 	opacity:0.3;
 }
 
-.isobar .colorstripe {
+.rylo .colorstripe {
 	background-color:#FA2A20;
 }
 
-.isobar .timeline {
+.rylo .timeline {
 	opacity:0.24;
 }
 
-.kampai .colorstripe {
+.fb .colorstripe {
 	background-color:#1877f2;
 }
 
-.kampai .timeline {
+.fb .timeline {
 	opacity:0.18;
 }
 
-.lanka .colorstripe {
+.ig .colorstripe {
 	background: rgb(150,52,156);
 	background: linear-gradient(180deg, rgba(150,52,156,1) 0%, rgba(227,28,58,1) 50%, rgba(253,115,45,1) 100%);
 }
 
-.lanka .timeline {
+.ig .timeline {
 	opacity:0.16;
 }
 
-.tutor .colorstripe {
+.spotify .colorstripe {
 	background-color:#1DB954;
 }
 
-.tutor .timeline {
+.spotify .timeline {
 	opacity:0.1;
 }
 
@@ -254,4 +253,20 @@
 
 .ig8 {
 	background-image: url(../img/ig8.png);
+}
+
+.ig9 {
+	background-image: url(../img/ig9.png);
+}
+
+.ig10 {
+	background-image: url(../img/ig10.png);
+}
+
+.ig11 {
+	background-image: url(../img/ig11.png);
+}
+
+.ig12 {
+	background-image: url(../img/ig12.png);
 }
