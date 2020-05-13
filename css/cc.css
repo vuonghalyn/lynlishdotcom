@@ -62,7 +62,13 @@
 	padding:0 12px 0 0;
 	
 }
-	
+
+.h1 {
+	padding:16px 0;
+	font-weight:500;
+	font-size: 13px;
+	text-transform: uppercase;
+	letter-spacing: 1.2;
 
 .section {
 	font-family: HoeflerTextItalic, serif;
