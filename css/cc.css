@@ -144,6 +144,14 @@
 	opacity:0.18;
 }
 
+.airbnb .colorstripe {
+	background-color:#B73ED7;
+}
+
+.airbnb .timeline {
+	opacity:0.3;
+}
+
 .lanka .colorstripe {
 	background: rgb(150,52,156);
 	background: linear-gradient(180deg, rgba(150,52,156,1) 0%, rgba(227,28,58,1) 50%, rgba(253,115,45,1) 100%);
