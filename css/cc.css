@@ -7,7 +7,7 @@
     font-family: Light;
     src: url("../type/light.otf") format("opentype");
 }
-
+<!--end-->
 @font-face {
     font-family: SemiBold;
     src: url("../type/semibold.otf") format("opentype");
